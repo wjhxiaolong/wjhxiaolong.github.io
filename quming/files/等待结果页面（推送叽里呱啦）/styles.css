@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:759px;
+  width:335px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -409,108 +409,62 @@
 }
 #u35 {
   position:absolute;
-  left:440px;
-  top:470px;
-  width:-100px;
-  height:0px;
-}
-#u35_seg0 {
-  position:absolute;
-  left:-104px;
-  top:-10px;
-  width:114px;
-  height:20px;
-}
-#u36 {
-  position:absolute;
-  left:-100px;
-  top:-8px;
-  width:100px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u37 {
-  position:absolute;
-  left:450px;
-  top:464px;
-  width:309px;
-  height:15px;
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
-  font-weight:200;
-  font-style:normal;
-}
-#u37_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:309px;
-  height:15px;
-}
-#u38 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:309px;
-  white-space:nowrap;
-}
-#u39 {
-  position:absolute;
   left:33px;
   top:510px;
   width:279px;
   height:49px;
   color:#FFFFFF;
 }
-#u39_img {
+#u35_img {
   position:absolute;
   left:0px;
   top:0px;
   width:279px;
   height:49px;
 }
-#u40 {
+#u36 {
   position:absolute;
   left:2px;
   top:17px;
   width:275px;
   word-wrap:break-word;
 }
-#u41 {
+#u37 {
   position:absolute;
   left:40px;
   top:520px;
   width:40px;
   height:30px;
 }
-#u41_img {
+#u37_img {
   position:absolute;
   left:0px;
   top:0px;
   width:40px;
   height:30px;
 }
-#u42 {
+#u38 {
   position:absolute;
   left:2px;
   top:8px;
   width:36px;
   word-wrap:break-word;
 }
-#u43 {
+#u39 {
   position:absolute;
   left:60px;
   top:690px;
   width:0px;
   height:-140px;
 }
-#u43_seg0 {
+#u39_seg0 {
   position:absolute;
   left:-10px;
   top:-144px;
   width:20px;
   height:154px;
 }
-#u44 {
+#u40 {
   position:absolute;
   left:-50px;
   top:-78px;
@@ -518,7 +472,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u45 {
+#u41 {
   position:absolute;
   left:40px;
   top:705px;
@@ -528,21 +482,21 @@
   font-weight:200;
   font-style:normal;
 }
-#u45_img {
+#u41_img {
   position:absolute;
   left:0px;
   top:0px;
   width:261px;
   height:13px;
 }
-#u46 {
+#u42 {
   position:absolute;
   left:0px;
   top:0px;
   width:261px;
   white-space:nowrap;
 }
-#u47 {
+#u43 {
   position:absolute;
   left:190px;
   top:220px;
@@ -552,14 +506,14 @@
   font-weight:200;
   font-style:normal;
 }
-#u47_img {
+#u43_img {
   position:absolute;
   left:0px;
   top:0px;
   width:111px;
   height:30px;
 }
-#u48 {
+#u44 {
   position:absolute;
   left:2px;
   top:8px;
