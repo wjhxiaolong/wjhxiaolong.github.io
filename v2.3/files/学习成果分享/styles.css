@@ -33,15 +33,14 @@
 #u1 {
   position:absolute;
   left:2px;
-  top:245px;
+  top:221px;
   width:281px;
-  visibility:hidden;
   word-wrap:break-word;
 }
 #u2 {
   position:absolute;
   left:152px;
-  top:480px;
+  top:491px;
   width:100px;
   height:25px;
 }
@@ -64,7 +63,7 @@
   left:390px;
   top:80px;
   width:300px;
-  height:24px;
+  height:144px;
   font-size:16px;
   line-height:24px;
 }
@@ -73,7 +72,7 @@
   left:0px;
   top:0px;
   width:300px;
-  height:24px;
+  height:144px;
 }
 #u4 {
   position:absolute;
