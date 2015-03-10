@@ -17,7 +17,7 @@
   left:780px;
   top:56px;
   width:360px;
-  height:216px;
+  height:312px;
   font-size:16px;
   line-height:24px;
 }
@@ -26,7 +26,7 @@
   left:0px;
   top:0px;
   width:360px;
-  height:216px;
+  height:312px;
 }
 #u1 {
   position:absolute;
@@ -85,7 +85,6 @@
   top:30px;
   width:321px;
   height:570px;
-  font-size:16px;
 }
 #u6_img {
   position:absolute;
@@ -97,7 +96,7 @@
 #u7 {
   position:absolute;
   left:2px;
-  top:252px;
+  top:210px;
   width:317px;
   word-wrap:break-word;
 }
