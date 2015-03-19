@@ -17,7 +17,7 @@
   left:420px;
   top:56px;
   width:360px;
-  height:264px;
+  height:216px;
   font-size:16px;
   line-height:24px;
 }
@@ -26,7 +26,7 @@
   left:0px;
   top:0px;
   width:360px;
-  height:264px;
+  height:216px;
 }
 #u1 {
   position:absolute;
@@ -216,6 +216,7 @@
   font-weight:200;
   font-style:normal;
   font-size:18px;
+  color:#FF0000;
 }
 #u15_img {
   position:absolute;
@@ -237,6 +238,7 @@
   top:350px;
   width:150px;
   height:30px;
+  color:#FF0000;
 }
 #u17_img {
   position:absolute;
@@ -298,28 +300,21 @@
 }
 #u23 {
   position:absolute;
-  left:346px;
-  top:363px;
-  width:-76px;
-  height:-3px;
+  left:360px;
+  top:360px;
+  width:-90px;
+  height:0px;
 }
 #u23_seg0 {
   position:absolute;
-  left:-86px;
+  left:-94px;
   top:-10px;
-  width:90px;
+  width:104px;
   height:20px;
-}
-#u23_seg1 {
-  position:absolute;
-  left:-86px;
-  top:-7px;
-  width:20px;
-  height:17px;
 }
 #u24 {
   position:absolute;
-  left:-90px;
+  left:-95px;
   top:-8px;
   width:100px;
   visibility:hidden;
@@ -327,24 +322,25 @@
 }
 #u25 {
   position:absolute;
-  left:352px;
-  top:356px;
-  width:378px;
-  height:13px;
+  left:370px;
+  top:349px;
+  width:150px;
+  height:64px;
+  font-size:16px;
 }
 #u25_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:378px;
-  height:13px;
+  width:150px;
+  height:64px;
 }
 #u26 {
   position:absolute;
   left:0px;
   top:0px;
-  width:378px;
-  white-space:nowrap;
+  width:150px;
+  word-wrap:break-word;
 }
 #u27 {
   position:absolute;
@@ -1344,4 +1340,31 @@
   top:0px;
   width:48px;
   white-space:nowrap;
+}
+#u111 {
+  position:absolute;
+  left:420px;
+  top:692px;
+  width:300px;
+  height:120px;
+  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
+  font-weight:200;
+  font-style:normal;
+  font-size:16px;
+  color:#FF0000;
+  line-height:24px;
+}
+#u111_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:120px;
+}
+#u112 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  word-wrap:break-word;
 }
