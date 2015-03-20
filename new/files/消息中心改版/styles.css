@@ -35,25 +35,3 @@
   width:300px;
   word-wrap:break-word;
 }
-#u2 {
-  position:absolute;
-  left:39px;
-  top:90px;
-  width:321px;
-  height:570px;
-}
-#u2_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:321px;
-  height:570px;
-}
-#u3 {
-  position:absolute;
-  left:2px;
-  top:277px;
-  width:317px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
