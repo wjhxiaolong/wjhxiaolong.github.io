@@ -54,7 +54,7 @@
         <img id="u0_img" class="img " src="resources/images/transparent.gif"/>
         <!-- Unnamed () -->
         <div id="u1" class="text">
-          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;color:#333333;">1. </span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#333333;">用户从听看界面返回首页时触发，用户必定会触发这个弹窗。用户没有宝宝or游客不触发这个弹窗。</span></p><p><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#333333;">2. 满足条件：在宝贝启蒙学习时间满</span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#FF0000;">N</span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#333333;">分钟（老用户在上线之日起学习满60分钟；A&amp;B测试，上线之日后新建宝宝的用户学习满60分钟or120分钟or180分钟）</span></p><p><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#333333;">3. 该弹窗不和推荐分享弹窗同时出现。 </span></p><p><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#333333;">4. “推荐叽里呱啦”按钮加上友盟的track</span></p>
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;color:#333333;">1. </span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#333333;">用户从听看界面返回首页时触发，用户必定会触发这个弹窗。用户没有宝宝or游客不触发这个弹窗。</span></p><p><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#333333;">2. 满足条件：在宝贝启蒙学习时间满</span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#000000;">N</span><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#333333;">分钟（老用户在上线之日起学习满60分钟；A&amp;B测试，上线之日后新建宝宝的用户学习满60分钟or120分钟or180分钟）</span></p><p><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#333333;">3. 该弹窗不和推荐分享弹窗同时出现。 </span></p><p><span style="font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';font-weight:200;color:#333333;">4. “推荐叽里呱啦”按钮加上友盟的track</span></p>
         </div>
       </div>
 
@@ -560,7 +560,7 @@
         <img id="u111_img" class="img " src="resources/images/transparent.gif"/>
         <!-- Unnamed () -->
         <div id="u112" class="text">
-          <p><span>4. 游客和无宝宝用户在宝贝启蒙听or看学习时间满15分钟（记录进入和退出的时间差）会弹一个分享窗口，用户点击分享后不再弹窗，没有点击推荐则下次继续重复该逻辑。</span></p><p><span>（这个版本Client加功能，Sever先关闭这一项）</span></p>
+          <p><span style="color:#000000;">无宝宝状态pop的description、button title需要服务器提供，逻辑改成累计听看时间</span><span style="color:#FF0000;">X</span><span style="color:#000000;">分钟（服务器端给）后弹出pop，无点击重新计算时间，弹出次数限制为2。</span></p>
         </div>
       </div>
     </div>

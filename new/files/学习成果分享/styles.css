@@ -136,7 +136,7 @@
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
-  color:#FF0000;
+  color:#000000;
 }
 #u10_img {
   position:absolute;
@@ -162,7 +162,7 @@
   font-weight:200;
   font-style:normal;
   font-size:18px;
-  color:#FF0000;
+  color:#000000;
 }
 #u12_img {
   position:absolute;
@@ -282,7 +282,7 @@
   top:173px;
   width:53px;
   height:13px;
-  color:#FF0000;
+  color:#000000;
 }
 #u21_img {
   position:absolute;
@@ -1141,6 +1141,7 @@
   font-weight:200;
   font-style:normal;
   font-size:18px;
+  color:#FF0000;
 }
 #u93_img {
   position:absolute;
@@ -1162,6 +1163,7 @@
   top:944px;
   width:150px;
   height:30px;
+  color:#FF0000;
 }
 #u95_img {
   position:absolute;
@@ -1343,15 +1345,14 @@
 }
 #u111 {
   position:absolute;
-  left:420px;
-  top:692px;
+  left:410px;
+  top:704px;
   width:300px;
-  height:168px;
+  height:96px;
   font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
   font-weight:200;
   font-style:normal;
   font-size:16px;
-  color:#FF0000;
   line-height:24px;
 }
 #u111_img {
@@ -1359,7 +1360,7 @@
   left:0px;
   top:0px;
   width:300px;
-  height:168px;
+  height:96px;
 }
 #u112 {
   position:absolute;
