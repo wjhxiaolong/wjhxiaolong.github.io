@@ -38,7 +38,7 @@
 #u2 {
   position:absolute;
   left:40px;
-  top:50px;
+  top:64px;
   width:321px;
   height:570px;
 }
@@ -59,23 +59,23 @@
 }
 #u4 {
   position:absolute;
-  left:40px;
-  top:660px;
-  width:321px;
-  height:570px;
+  left:231px;
+  top:443px;
+  width:119px;
+  height:31px;
 }
 #u4_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:321px;
-  height:570px;
+  width:119px;
+  height:31px;
 }
 #u5 {
   position:absolute;
   left:2px;
-  top:277px;
-  width:317px;
+  top:8px;
+  width:115px;
   visibility:hidden;
   word-wrap:break-word;
 }
